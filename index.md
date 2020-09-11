@@ -1,29 +1,23 @@
-## Welcome to GitHub Pages
+## g5_p2
+TCMG 412 Group 5 Project 2
+DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
 
-You can use the [editor on GitHub](https://github.com/abrarsim2017/g5_p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Page/Resume Directory
 
 ```markdown
-Syntax highlighted code block
+[Amy's Resume](https://github.com/abrarsim2017/g5_p2/blob/master/AmyResume.txt)
 
-# Header 1
-## Header 2
-### Header 3
+[Matthew's Resume](MatthewResume.txt)
 
-- Bulleted
-- List
+[Mubtasim's Resume](MubtasimResume.txt)
 
-1. Numbered
-2. List
+[Noah's Resume](NoahResume.txt)
 
-**Bold** and _Italic_ and `Code` text
+[Ricardo's Resume](RicardoResume.txt)
 
-[Link](url) and ![Image](src)
+[Shelby's Resume](ShelbyResume.txt)
+
+[Trent's Resume](TrentResume.txt)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
