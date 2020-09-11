@@ -4,7 +4,7 @@ DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
 
 ### Page/Resume Directory
 
-[Amy's Resume](https://github.com/abrarsim2017/g5_p2/blob/master/AmyResume.txt)
+[Amy's Resume](AmyResume.txt)
 
 [Matthew's Resume](MatthewResume.txt)
 
