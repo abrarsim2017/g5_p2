@@ -4,7 +4,6 @@ DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
 
 ### Page/Resume Directory
 
-```markdown
 [Amy's Resume](https://github.com/abrarsim2017/g5_p2/blob/master/AmyResume.txt)
 
 [Matthew's Resume](MatthewResume.txt)
@@ -18,7 +17,6 @@ DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
 [Shelby's Resume](ShelbyResume.txt)
 
 [Trent's Resume](TrentResume.txt)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
