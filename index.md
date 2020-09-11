@@ -1,6 +1,6 @@
 ## g5_p2
 TCMG 412 Group 5 Project 2
-DevOps Team [Project Page](https://noahwoinicki.github.io/g5_p2/)
+DevOps Team [Project Page](https://abrarsim2017.github.io/g5_p2/)
 
 ![Image of Leader](https://github.com/noahwoinicki/g5_p2/blob/master/leader.JPG?raw=true)
 
