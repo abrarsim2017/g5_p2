@@ -1,6 +1,8 @@
 ## g5_p2
 TCMG 412 Group 5 Project 2
-DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
+DevOps Team [Project Page](https://abrarsim2017.github.io/g5_p2/)
+
+![Image of Leader](https://github.com/noahwoinicki/g5_p2/blob/master/leader.JPG?raw=true)
 
 ### Page/Resume Directory
 
@@ -18,12 +20,8 @@ DevTeam and OpsTeam Combine [Project](https://abrarsim2017.github.io/g5_p2/)
 
 [Trent's Resume](TrentResume.txt)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abrarsim2017/g5_p2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Some memes
+![Minion 1](https://github.com/abrarsim2017/g5_p2/blob/master/Some%20Memes/Minion-Memes-005c201a48715ee1d5af42df028aae1d.jpg?raw=true)
+![Minion 2](https://github.com/abrarsim2017/g5_p2/blob/master/Some%20Memes/a-balanced-diet-minion-meme.jpg?raw=true)
+![Minion 3](https://github.com/abrarsim2017/g5_p2/blob/master/Some%20Memes/cfb0a9653bc5251b6ef9ea008a2b8bcb.jpg?raw=true)
